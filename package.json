@@ -1,0 +1,13 @@
+{
+  "name": "mnemonic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bip39": "^3.0.2",
+    "eth-hd-wallet": "^0.5.1",
+    "exec-sh": "^0.3.4",
+    "web3": "^1.2.9"
+  }
+}
